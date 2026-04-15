@@ -1,0 +1,6 @@
+[project]
+name = "bloodcell-detection-cv"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["src"]
